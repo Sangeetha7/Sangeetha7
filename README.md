@@ -52,10 +52,11 @@ Here are some ideas to get you started:
   📖 Research Notes
    – Summaries of key Computer Science research papers I’m exploring
 
-📊 GitHub Stats
+## 📊 GitHub Stats  
 
-
-
+![Sangeetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangeetha7&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha7&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Sangeetha7&theme=tokyonight&border_radius=10)
 
 🌱 Current Focus
 
@@ -69,4 +70,4 @@ Here are some ideas to get you started:
 
   🔗 [LinkedIn](https://www.linkedin.com/in/sangeetha-devaraj-2a7ba023/)
 
-  💻 [GitHub] (https://github.com/Sangeetha7)
+  💻 [GitHub](https://github.com/Sangeetha7)
