@@ -58,6 +58,13 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha7&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sangeetha7&theme=tokyonight&border_radius=10)
 
+## 📈 Contribution Graph  
+
+![Sangeetha's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sangeetha7&theme=tokyonight)  
+![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sangeetha7&theme=tokyonight)  
+![Monthly Commits](https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=Sangeetha7&theme=tokyonight)
+![snake gif](https://github.com/Sangeetha7/Sangeetha7/blob/output/github-contribution-grid-snake.gif)
+
 🌱 Current Focus
 
   Building projects in cloud infrastructure and distributed computing
