@@ -60,10 +60,7 @@ Here are some ideas to get you started:
 
 ## 📈 Contribution Graph  
 
-![Sangeetha's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sangeetha7&theme=tokyonight)  
-![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sangeetha7&theme=tokyonight)  
-![Monthly Commits](https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=Sangeetha7&theme=tokyonight)
-![snake gif](https://github.com/Sangeetha7/Sangeetha7/blob/output/github-contribution-grid-snake.gif)
+
 
 🌱 Current Focus
 
