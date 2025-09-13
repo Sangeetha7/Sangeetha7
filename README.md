@@ -17,40 +17,40 @@ Here are some ideas to get you started:
 
 👩‍💻 Hi, I’m Sangeetha
 
-🎓 Masters in Computer Science at Kennesaw State Universtity
+  🎓 Masters in Computer Science at Kennesaw State Universtity
 
-💻 8+ years in IT Infrastructure & Operations | 5 years in Teaching Mathematics
+  💻 8+ years in IT Infrastructure & Operations | 5 years in Teaching Mathematics
 
 🔍 About Me
 
-🌐 Experienced in IT Infrastructure, Cloud Computing, and Scripting
+  🌐 Experienced in IT Infrastructure, Cloud Computing, and Scripting
 
-☁️ Certified in AWS, Microsoft, VMWare
+  ☁️ Certified in AWS, Microsoft, VMWare
 
-🧑‍🏫 Former Mathematics Teacher & Curriculum Designer
+  🧑‍🏫 Former Mathematics Teacher & Curriculum Designer
 
-✨ Interested in bridging industry expertise with academic research
+  ✨ Interested in bridging industry expertise with academic research
 
 🛠️ Tech Stack
 
-Languages & Scripting: Python, PowerShell, Bash, Java
-Cloud & Infrastructure: AWS, Azure, Docker, Kubernetes
-Networking & Simulation: NS2, NS3, Mininet, Wireshark
-Other Tools: Git, Selenium, Linux
+  Languages & Scripting: Python, PowerShell, Bash, Java
+  Cloud & Infrastructure: AWS, Azure, Docker, Kubernetes
+  Networking & Simulation: NS2, NS3, Mininet, Wireshark
+  Other Tools: Git, Selenium, Linux
 
 📂 Featured Projects
 
-🛒 Costco Price Tracker
- – Automated Selenium script that scrapes daily prices and emails alerts
+  🛒 Costco Price Tracker
+    – Automated Selenium script that scrapes daily prices and emails alerts
 
-⚡ PowerShell Automation Labs
- – Hands-on scripts for learning system automation step by step
+  ⚡ PowerShell Automation Labs
+    – Hands-on scripts for learning system automation step by step
 
-🌐 NS2 Network Simulations
- – Experiments with TCP vs UDP, SDN topologies, and packet analysis
+  🌐 NS2 Network Simulations
+   – Experiments with TCP vs UDP, SDN topologies, and packet analysis
 
-📖 Research Notes
- – Summaries of key Computer Science research papers I’m exploring
+  📖 Research Notes
+   – Summaries of key Computer Science research papers I’m exploring
 
 📊 GitHub Stats
 
@@ -59,14 +59,14 @@ Other Tools: Git, Selenium, Linux
 
 🌱 Current Focus
 
-Building projects in cloud infrastructure and distributed computing
+  Building projects in cloud infrastructure and distributed computing
 
-Documenting networking simulations and research insights
+  Documenting networking simulations and research insights
 
 📫 Let’s Connect
 
-📧 sangeetha.devaraj@hotmail.com
+  📧 sangeetha.devaraj@hotmail.com
 
-🔗 LinkedIn
+  🔗 [LinkedIn](https://www.linkedin.com/in/sangeetha-devaraj-2a7ba023/)
 
-💻 GitHub
+  💻 GitHub
