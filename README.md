@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👩‍💻 Hi, I’m Sangeetha
 
-🎓 Masters in Computer Science at Kennesaw State Universtity | IT Professional | Educator
+🎓 Masters in Computer Science at Kennesaw State Universtity
 💻 8+ years in IT Infrastructure & Operations | 5 years in Teaching Mathematics
 
 🔍 About Me
