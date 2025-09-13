@@ -58,13 +58,6 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha7&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sangeetha7&theme=tokyonight&border_radius=10)
 
-
-## 📈 Contribution Graph  
-
-![GitHub Contribution Grid](https://raw.githubusercontent.com/Sangeetha7/Sangeetha7/output/github-contribution-grid-snake.svg)
-
-
-
 🌱 Current Focus
 
   Building projects in cloud infrastructure and distributed computing
