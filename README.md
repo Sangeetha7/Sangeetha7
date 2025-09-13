@@ -69,4 +69,4 @@ Here are some ideas to get you started:
 
   🔗 [LinkedIn](https://www.linkedin.com/in/sangeetha-devaraj-2a7ba023/)
 
-  💻 GitHub
+  💻 [GitHub] (https://github.com/Sangeetha7)
