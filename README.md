@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 Hi, I’m Sangeetha
+👩‍💻 Hi, I’m Sangeetha Devaraj
 
-  🎓 Masters in Computer Science at Kennesaw State Universtity
+  🎓 Master of Science in Computer Science at Kennesaw State Universtity | Expected graduation - May 2027
 
   💻 8+ years in IT Infrastructure & Operations | 5 years in Teaching 
 
