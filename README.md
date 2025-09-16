@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   🎓 Masters in Computer Science at Kennesaw State Universtity
 
-  💻 8+ years in IT Infrastructure & Operations | 5 years in Teaching Mathematics
+  💻 8+ years in IT Infrastructure & Operations | 5 years in Teaching 
 
 🔍 About Me
 
